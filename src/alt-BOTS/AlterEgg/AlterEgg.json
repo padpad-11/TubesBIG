@@ -1,0 +1,15 @@
+{
+  "name": "Alter Egg",
+  "version": "4.0",
+  "authors": [
+    "Daffa",
+    "Fadhil"
+  ],
+  "description": "Robot agresif dengan linear targeting dan movement berbasis risiko untuk menyerang lawan dengan efektif.",
+  "homepage": "",
+  "countryCodes": [
+    "id"
+  ],
+  "platform": ".NET 8.0",
+  "programmingLang": "C# 10.0"
+}
