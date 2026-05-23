@@ -1,0 +1,15 @@
+{
+  "name": "BOTBOTBOTBOT",
+  "version": "13.0.7",
+  "authors": [
+    "BOTBOTDAFFA",
+    "BOTBOTFADHIL"
+  ],
+  "description": "BOTBOTBOTBOT",
+  "homepage": "",
+  "countryCodes": [
+    "id"
+  ],
+  "platform": ".NET 8.0",
+  "programmingLang": "C# 10.0"
+}
