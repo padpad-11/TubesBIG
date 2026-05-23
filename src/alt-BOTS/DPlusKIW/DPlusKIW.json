@@ -1,0 +1,15 @@
+{
+  "name": "DPlusKIW",
+  "version": "7.0",
+  "authors": [
+    "Daffa",
+    "Fadhil"
+  ],
+  "description": "Bot yang main aman, tapi tetap berusaha menang",
+  "homepage": "",
+  "countryCodes": [
+    "id"
+  ],
+  "platform": ".NET 8.0",
+  "programmingLang": "C# 10.0"
+}
