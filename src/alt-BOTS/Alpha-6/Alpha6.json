@@ -1,0 +1,15 @@
+{
+  "name": "Alpha6",
+  "version": "3.0",
+  "authors": [
+    "Fadhil",
+    "Daffa"
+  ],
+  "description": "Robot ini menggocek lawannya",
+  "homepage": "",
+  "countryCodes": [
+    "id"
+  ],
+  "platform": ".NET 8.0",
+  "programmingLang": "C# 10.0"
+}
